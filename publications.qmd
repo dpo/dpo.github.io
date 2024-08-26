@@ -1,0 +1,53 @@
+---
+title: "Publications"
+bibliography:
+    techrep2024: publications/techrep2024.bib
+    articles2023: publications/articles2023.bib
+    techrep2023: publications/techrep2023.bib
+    articles2022: publications/articles2022.bib
+    techrep2022: publications/techrep2022.bib
+    articles2021: publications/articles2021.bib
+    proceedings2021: publications/proceedings2021.bib
+    techrep2021: publications/techrep2021.bib
+    articles2020: publications/articles2020.bib
+    proceedings2020: publications/proceedings2020.bib
+    techrep2020: publications/techrep2020.bib
+    articles2019: publications/articles2019.bib
+    articles2018: publications/articles2018.bib
+    proceedings2018: publications/proceedings2018.bib
+    books2017: publications/books2017.bib
+    techrep2017: publications/techrep2017.bib
+    articles2016: publications/articles2016.bib
+    techrep2016: publications/techrep2016.bib
+    articles2015: publications/articles2015.bib
+    proceedings2015: publications/proceedings2015.bib
+    techrep2015: publications/techrep2015.bib
+    unpublished2015: publications/unpublished2015.bib
+    articles2014: publications/articles2014.bib
+    techrep2014: publications/techrep2014.bib
+    articles2013: publications/articles2013.bib
+    articles2012: publications/articles2012.bib
+    techrep2012: publications/techrep2012.bib
+    unpublished2012: publications/unpublished2012.bib
+    articles2011: publications/articles2011.bib
+    unpublished2011: publications/unpublished2011.bib
+    articles2010: publications/articles2010.bib
+    proceedings2010: publications/proceedings2010.bib
+    articles2009: publications/articles2009.bib
+    unpublished2009: publications/unpublished2009.bib
+    articles2008: publications/articles2008.bib
+    unpublished2008: publications/unpublished2008.bib
+    articles2006: publications/articles2006.bib
+    articles2005: publications/articles2005.bib
+    proceedings2005: publications/proceedings2005.bib
+    articles2003: publications/articles2003.bib
+    articles2002: publications/articles2002.bib
+    unpublished2002: publications/unpublished2002.bib
+    articles2001: publications/articles2001.bib
+    articles2000: publications/articles2000.bib
+validate-yaml: false
+csl: "apa-cv"
+nocite: "[@*]"
+---
+
+{{< include publications_body.qmd >}}

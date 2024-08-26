@@ -1,0 +1,267 @@
+
+## 2024
+
+### Technical Reports
+
+::: {#refs-techrep2024}
+:::
+
+## 2023
+
+### Journal Articles
+
+::: {#refs-articles2023}
+:::
+
+### Technical Reports
+
+::: {#refs-techrep2023}
+:::
+
+## 2022
+
+### Journal Articles
+
+::: {#refs-articles2022}
+:::
+
+### Technical Reports
+
+::: {#refs-techrep2022}
+:::
+
+## 2021
+
+### Journal Articles
+
+::: {#refs-articles2021}
+:::
+
+### Proceedings
+
+::: {#refs-proceedings2021}
+:::
+
+### Technical Reports
+
+::: {#refs-techrep2021}
+:::
+
+## 2020
+
+### Journal Articles
+
+::: {#refs-articles2020}
+:::
+
+### Proceedings
+
+::: {#refs-proceedings2020}
+:::
+
+### Technical Reports
+
+::: {#refs-techrep2020}
+:::
+
+## 2019
+
+### Journal Articles
+
+::: {#refs-articles2019}
+:::
+
+## 2018
+
+### Journal Articles
+
+::: {#refs-articles2018}
+:::
+
+### Proceedings
+
+::: {#refs-proceedings2018}
+:::
+
+## 2017
+
+### Books
+
+::: {#refs-books2017}
+:::
+
+### Technical Reports
+
+::: {#refs-techrep2017}
+:::
+
+## 2016
+
+### Journal Articles
+
+::: {#refs-articles2016}
+:::
+
+### Technical Reports
+
+::: {#refs-techrep2016}
+:::
+
+## 2015
+
+### Journal Articles
+
+::: {#refs-articles2015}
+:::
+
+### Proceedings
+
+::: {#refs-proceedings2015}
+:::
+
+### Technical Reports
+
+::: {#refs-techrep2015}
+:::
+
+### Unpublished
+
+::: {#refs-unpublished2015}
+:::
+
+## 2014
+
+### Journal Articles
+
+::: {#refs-articles2014}
+:::
+
+### Technical Reports
+
+::: {#refs-techrep2014}
+:::
+
+## 2013
+
+### Journal Articles
+
+::: {#refs-articles2013}
+:::
+
+## 2012
+
+### Journal Articles
+
+::: {#refs-articles2012}
+:::
+
+### Technical Reports
+
+::: {#refs-techrep2012}
+:::
+
+### Unpublished
+
+::: {#refs-unpublished2012}
+:::
+
+## 2011
+
+### Journal Articles
+
+::: {#refs-articles2011}
+:::
+
+### Unpublished
+
+::: {#refs-unpublished2011}
+:::
+
+## 2010
+
+### Journal Articles
+
+::: {#refs-articles2010}
+:::
+
+### Proceedings
+
+::: {#refs-proceedings2010}
+:::
+
+## 2009
+
+### Journal Articles
+
+::: {#refs-articles2009}
+:::
+
+### Unpublished
+
+::: {#refs-unpublished2009}
+:::
+
+## 2008
+
+### Journal Articles
+
+::: {#refs-articles2008}
+:::
+
+### Unpublished
+
+::: {#refs-unpublished2008}
+:::
+
+## 2006
+
+### Journal Articles
+
+::: {#refs-articles2006}
+:::
+
+## 2005
+
+### Journal Articles
+
+::: {#refs-articles2005}
+:::
+
+### Proceedings
+
+::: {#refs-proceedings2005}
+:::
+
+## 2003
+
+### Journal Articles
+
+::: {#refs-articles2003}
+:::
+
+## 2002
+
+### Journal Articles
+
+::: {#refs-articles2002}
+:::
+
+### Unpublished
+
+::: {#refs-unpublished2002}
+:::
+
+## 2001
+
+### Journal Articles
+
+::: {#refs-articles2001}
+:::
+
+## 2000
+
+### Journal Articles
+
+::: {#refs-articles2000}
+:::
+

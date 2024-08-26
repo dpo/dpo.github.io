@@ -1,0 +1,44 @@
+project:
+  type: website
+  output-dir: docs
+  pre-render:
+    - scripts/populate_publications.sh
+
+website:
+  title: "Dominique Orban"
+  site-url: https://dpo.github.io
+  description: "Dominique's Feed"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - research.qmd
+      - publications.qmd
+      - appointments.qmd
+      - software.qmd
+      - datasets.qmd
+    right:
+      - icon: rss
+        href: index.xml
+      - icon: github
+        href: https://github.com/JuliaSmoothOptimizers
+        aria-label: JSO
+  page-footer:
+    left: "© Dominique Orban, 2024"
+  google-analytics: "UA-17046019-2"
+
+filters:
+  - multibib
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+      # light: cosmo
+      # dark: [cosmo, theme-dark.scss]
+    css: styles.css
+    toc: true
+
+
+

@@ -1,0 +1,18 @@
+---
+title: "Software"
+---
+
+## [JSO](https://jso.dev)---Julia Ecosystem for Optimization and Linear Algebra
+
+A modeling and solution environment for continuous optimization in the high-level and high-performance Julia language.
+The environment provides access to the CUTEst and AMPL modeling environments and can be used alongside JuMP.
+
+Important features include complete optimization solvers, lazy linear operators, the largest collection of Krylov methods, problem collections, interfaces to high-performance linear algebra kernels.
+
+## [CUTEst](https://github.com/ralna/CUTEst)
+
+A versatile testing environment for optimization and linear algebra solvers. The package contains a collection of test problems, along with Fortran 77, Fortran 90/95, C/C++ and Matlab tools intended to help developers design, compare and improve new and existing solvers. It is usually associated to SIFDecode, a decoder for problems modeled in the SIF—a generalization of the MPS modeling language for linear programs. CUTEst realizes the interface between such problems and a variety of popular solvers.
+
+## [GALAHAD](https://github.com/ralna/GALAHAD)
+
+A thread-safe library of Fortran 90 packages for nonlinear optimization problems. Areas currently covered by the library include unconstrained and bound-constrained optimization, quadratic programming, nonlinear programming, systems of nonlinear equations and inequalities, and nonlinear least squares problems. The library also contains a quadratic program preprocessor and a Lanczos-based method for trust-region subproblems.
