@@ -1,0 +1,415 @@
+[
+  {
+    "objectID": "datasets.html",
+    "href": "datasets.html",
+    "title": "Data Sets",
+    "section": "",
+    "text": "Linear Systems from Interior Methods\nA flexible collection of linear systems arising from interior-point methods for quadratic optimization in MatrixMarket format. The systems are supplied in the form of their blocks, which can be rearranged, along with accompanying right-hand sides.\n\n\n\nSymmetric Quasi-Definite Systems from Optimization\nA collection of symmetric and quasi-definite linear systems from optimization in MatrixMarket format."
+  },
+  {
+    "objectID": "appointments.html",
+    "href": "appointments.html",
+    "title": "Appointments",
+    "section": "",
+    "text": "Full Professor of applied mathematics in the mathematics and industrial engineering department of Polytechnique Montreal, Montreal, Canada\nFaculty Member of the GERAD research center"
+  },
+  {
+    "objectID": "appointments.html#current-position",
+    "href": "appointments.html#current-position",
+    "title": "Appointments",
+    "section": "",
+    "text": "Full Professor of applied mathematics in the mathematics and industrial engineering department of Polytechnique Montreal, Montreal, Canada\nFaculty Member of the GERAD research center"
+  },
+  {
+    "objectID": "appointments.html#other-appointments",
+    "href": "appointments.html#other-appointments",
+    "title": "Appointments",
+    "section": "Other Appointments",
+    "text": "Other Appointments\n\nAssociate Editor, ACM Transaction on Mathematical Software\nAssociate Editor, Optimization Methods and Software\nAssociate Editor, Computational Optimization and Applications\nAssociate Editor, Operations Research Letters\nTechnical Editor, Mathematical Programming Computation"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dominique Orban",
+    "section": "",
+    "text": "Classic Paper in Optimization\n\n\nAn interior algorithm for nonlinear optimization that combines line search and trust region steps\n\n\n\nnews\n\n\npublications\n\n\n\n\n\n\n\n\n\nJun 15, 2017\n\n\nDominique Orban\n\n\n\n\n\n\n\n\n\n\n\n\nNew Book\n\n\nIterative Solution of Symmetric Quasi-Definite Linear Systems\n\n\n\nnews\n\n\npublications\n\n\nbooks\n\n\n\n\n\n\n\n\n\nApr 13, 2017\n\n\nDominique Orban\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications_body.html#section-1",
+    "href": "publications_body.html#section-1",
+    "title": "Dominique Orban",
+    "section": "2023",
+    "text": "2023\n\nJournal Articles\n\n\n\n\n\nTechnical Reports"
+  },
+  {
+    "objectID": "publications_body.html#section-2",
+    "href": "publications_body.html#section-2",
+    "title": "Dominique Orban",
+    "section": "2022",
+    "text": "2022\n\nJournal Articles\n\n\n\n\n\nTechnical Reports"
+  },
+  {
+    "objectID": "publications_body.html#section-3",
+    "href": "publications_body.html#section-3",
+    "title": "Dominique Orban",
+    "section": "2021",
+    "text": "2021\n\nJournal Articles\n\n\n\n\n\nProceedings\n\n\n\n\n\nTechnical Reports"
+  },
+  {
+    "objectID": "publications_body.html#section-4",
+    "href": "publications_body.html#section-4",
+    "title": "Dominique Orban",
+    "section": "2020",
+    "text": "2020\n\nJournal Articles\n\n\n\n\n\nProceedings\n\n\n\n\n\nTechnical Reports"
+  },
+  {
+    "objectID": "publications_body.html#section-5",
+    "href": "publications_body.html#section-5",
+    "title": "Dominique Orban",
+    "section": "2019",
+    "text": "2019\n\nJournal Articles"
+  },
+  {
+    "objectID": "publications_body.html#section-6",
+    "href": "publications_body.html#section-6",
+    "title": "Dominique Orban",
+    "section": "2018",
+    "text": "2018\n\nJournal Articles\n\n\n\n\n\nProceedings"
+  },
+  {
+    "objectID": "publications_body.html#section-7",
+    "href": "publications_body.html#section-7",
+    "title": "Dominique Orban",
+    "section": "2017",
+    "text": "2017\n\nBooks\n\n\n\n\n\nTechnical Reports"
+  },
+  {
+    "objectID": "publications_body.html#section-8",
+    "href": "publications_body.html#section-8",
+    "title": "Dominique Orban",
+    "section": "2016",
+    "text": "2016\n\nJournal Articles\n\n\n\n\n\nTechnical Reports"
+  },
+  {
+    "objectID": "publications_body.html#section-9",
+    "href": "publications_body.html#section-9",
+    "title": "Dominique Orban",
+    "section": "2015",
+    "text": "2015\n\nJournal Articles\n\n\n\n\n\nProceedings\n\n\n\n\n\nTechnical Reports\n\n\n\n\n\nUnpublished"
+  },
+  {
+    "objectID": "publications_body.html#section-10",
+    "href": "publications_body.html#section-10",
+    "title": "Dominique Orban",
+    "section": "2014",
+    "text": "2014\n\nJournal Articles\n\n\n\n\n\nTechnical Reports"
+  },
+  {
+    "objectID": "publications_body.html#section-11",
+    "href": "publications_body.html#section-11",
+    "title": "Dominique Orban",
+    "section": "2013",
+    "text": "2013\n\nJournal Articles"
+  },
+  {
+    "objectID": "publications_body.html#section-12",
+    "href": "publications_body.html#section-12",
+    "title": "Dominique Orban",
+    "section": "2012",
+    "text": "2012\n\nJournal Articles\n\n\n\n\n\nTechnical Reports\n\n\n\n\n\nUnpublished"
+  },
+  {
+    "objectID": "publications_body.html#section-13",
+    "href": "publications_body.html#section-13",
+    "title": "Dominique Orban",
+    "section": "2011",
+    "text": "2011\n\nJournal Articles\n\n\n\n\n\nUnpublished"
+  },
+  {
+    "objectID": "publications_body.html#section-14",
+    "href": "publications_body.html#section-14",
+    "title": "Dominique Orban",
+    "section": "2010",
+    "text": "2010\n\nJournal Articles\n\n\n\n\n\nProceedings"
+  },
+  {
+    "objectID": "publications_body.html#section-15",
+    "href": "publications_body.html#section-15",
+    "title": "Dominique Orban",
+    "section": "2009",
+    "text": "2009\n\nJournal Articles\n\n\n\n\n\nUnpublished"
+  },
+  {
+    "objectID": "publications_body.html#section-16",
+    "href": "publications_body.html#section-16",
+    "title": "Dominique Orban",
+    "section": "2008",
+    "text": "2008\n\nJournal Articles\n\n\n\n\n\nUnpublished"
+  },
+  {
+    "objectID": "publications_body.html#section-17",
+    "href": "publications_body.html#section-17",
+    "title": "Dominique Orban",
+    "section": "2006",
+    "text": "2006\n\nJournal Articles"
+  },
+  {
+    "objectID": "publications_body.html#section-18",
+    "href": "publications_body.html#section-18",
+    "title": "Dominique Orban",
+    "section": "2005",
+    "text": "2005\n\nJournal Articles\n\n\n\n\n\nProceedings"
+  },
+  {
+    "objectID": "publications_body.html#section-19",
+    "href": "publications_body.html#section-19",
+    "title": "Dominique Orban",
+    "section": "2003",
+    "text": "2003\n\nJournal Articles"
+  },
+  {
+    "objectID": "publications_body.html#section-20",
+    "href": "publications_body.html#section-20",
+    "title": "Dominique Orban",
+    "section": "2002",
+    "text": "2002\n\nJournal Articles\n\n\n\n\n\nUnpublished"
+  },
+  {
+    "objectID": "publications_body.html#section-21",
+    "href": "publications_body.html#section-21",
+    "title": "Dominique Orban",
+    "section": "2001",
+    "text": "2001\n\nJournal Articles"
+  },
+  {
+    "objectID": "publications_body.html#section-22",
+    "href": "publications_body.html#section-22",
+    "title": "Dominique Orban",
+    "section": "2000",
+    "text": "2000\n\nJournal Articles"
+  },
+  {
+    "objectID": "posts/2017-06-15-classic-paper/2017-06-15-classic-paper.html",
+    "href": "posts/2017-06-15-classic-paper/2017-06-15-classic-paper.html",
+    "title": "Classic Paper in Optimization",
+    "section": "",
+    "text": "Google announced today that my paper An interior algorithm for nonlinear optimization that combines line search and trust region steps is among the top cited papers published in 2006 in optimization.\nThe paper appeared in Mathematical Programming and concerns extensions of the frighteningly effective KNITRO solver, now known as Artely KNITRO.\nKNITRO’s main competitor in the continuous optimization arena is arguably the highly-successful open-source solver IPOPT by Andreas Wächter. IPOPT tops the list of most-cited papers in optimization in 2006, according to Google’s ranking.\nAndreas is now faculty at Northwestern University, where I held a post-doctoral appointment at the time I co-authored the KNITRO paper.\nAs it happens, I currently share an office with Charles Audet, who also authors one of the most-cited papers that year.\nAt the time of this writing, Google only published the most-cited papers for 2006. Presumably, other years will follow."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My scientific interests span computational optimization, numerical analysis, numerical linear algebra, scientific computing, and modeling environments. I have a keen interest in the interplay between computational science and programming languages.\nMy research focuses on the design, convergence analysis, numerical properties, practical implementation, and testing of algorithms for continuous optimization and their linear algebra kernels. I am equally interested in applying algorithms that I design to problems that arise in engineering and science.\nMy research activities thus comprise tightly interconnected theoretical analyses of computational methods and high-quality implementations to aid in the modeling and solution of practical problems."
+  },
+  {
+    "objectID": "posts/2017-04-13-sqd-book/2017-04-13-sqd-book.html",
+    "href": "posts/2017-04-13-sqd-book/2017-04-13-sqd-book.html",
+    "title": "New Book",
+    "section": "",
+    "text": "book cover\n\n\nSIAM just announced the publication of my book Iterative Solution of Symmetric Quasi-Definite Linear Systems in their Spotlights series, written with Mario Arioli.\nThe book is suitable for a graduate course on iterative methods for linear systems with applications to optimization and fluid dynamics.\nWe distribute software that implements the iterative methods discussed in the book in Matlab, Python and Julia.\nIn 2015 I taught an accelerated graduate-level course at the university of Louvain-la-Neuve (Belgium) describing optimization methods that lead to quasi-definite linear systems. The course material is available here.\nHead to the SIAM Bookstore to get your copy of the book!\nUpdate: here is a list of errata."
+  },
+  {
+    "objectID": "publications/articles2020.html",
+    "href": "publications/articles2020.html",
+    "title": "Dominique Orban",
+    "section": "",
+    "text": "References\n\nMestdagh, G., Goussard, Y., & Orban, D. (2020). Scaled projected-direction methods with application to transmission tomography. Optimization and Engineering, 1–25. https://doi.org/10.1007/s11081-020-09484-0\n\n\nMontoison, A., & Orban, D. (2020). BiLQ: An iterative method for nonsymmetric linear systems with a quasi-minimum error property. SIAM Journal on Matrix Analysis and Applications, 41(3), 1145–1166. https://doi.org/10.1137/19M1290991\n\n\nOrban, D., & Siqueira, A. S. (2020). A regularization method for constrained nonlinear least squares. Computational Optimization and Applications, 76, 961–989. https://doi.org/10.1007/s10589-020-00201-2\n\n\nR. Estrin, Friedlander, M. P., Orban, D., & Saunders, M. A. (2020a). Implementing a smooth exact penalty function for equality-constrained nonlinear optimization. SIAM Journal on Scientific Computing, 42(3), A1809–A1835. https://doi.org/10.1137/19M1238265\n\n\nR. Estrin, Friedlander, M. P., Orban, D., & Saunders, M. A. (2020b). Implementing a smooth exact penalty function for general constrained nonlinear optimization. SIAM Journal on Scientific Computing, 42(3), A1836–A1859. https://doi.org/10.1137/19M1255069"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Fowkes, J., Lister, A., Montoison, A., & Orban, D. (2024). LibHSL: The ultimate collection for large-scale scientific computation (Cahier Du GERAD G-2024-06; pp. 1–5). GERAD. https://doi.org/10.13140/RG.2.2.30649.54889\n\n\nHuang, N., Dai, Y.-H., Orban, D., & Saunders, M. A. (2024). An inexact augmented Lagrangian algorithm for unsymmetric saddle-point systems (Cahier Du GERAD G-2024-30; pp. 1–26). GERAD. https://doi.org/10.13140/RG.2.2.17308.09602\n\n\nLeconte, G., & Orban, D. (2024). An interior-point trust-region method for nonsmooth regularized bound-constrained optimization (Cahier Du GERAD G-2024-17; pp. 1–32). GERAD. https://doi.org/10.13140/RG.2.2.18132.99201"
+  },
+  {
+    "objectID": "publications.html#section",
+    "href": "publications.html#section",
+    "title": "Publications",
+    "section": "",
+    "text": "Fowkes, J., Lister, A., Montoison, A., & Orban, D. (2024). LibHSL: The ultimate collection for large-scale scientific computation (Cahier Du GERAD G-2024-06; pp. 1–5). GERAD. https://doi.org/10.13140/RG.2.2.30649.54889\n\n\nHuang, N., Dai, Y.-H., Orban, D., & Saunders, M. A. (2024). An inexact augmented Lagrangian algorithm for unsymmetric saddle-point systems (Cahier Du GERAD G-2024-30; pp. 1–26). GERAD. https://doi.org/10.13140/RG.2.2.17308.09602\n\n\nLeconte, G., & Orban, D. (2024). An interior-point trust-region method for nonsmooth regularized bound-constrained optimization (Cahier Du GERAD G-2024-17; pp. 1–32). GERAD. https://doi.org/10.13140/RG.2.2.18132.99201"
+  },
+  {
+    "objectID": "publications.html#section-1",
+    "href": "publications.html#section-1",
+    "title": "Publications",
+    "section": "2023",
+    "text": "2023\n\nJournal Articles\n\n\nHuang, N., Dai, Y.-H., Orban, D., & Saunders, M. A. (2023). On GSOR, the generalized successive overrelaxation method for double saddle-point problems. SIAM Journal on Scientific Computing, 45(5), A2185–A2206. https://doi.org/10.1137/22M1515884\n\n\nMontoison, A., & Orban, D. (2023). Krylov.jl: A Julia basket of hand-picked Krylov methods. The Journal of Open Source Software, 89(8), 5187. https://doi.org/10.21105/joss.05187\n\n\n\n\nTechnical Reports\n\n\nBigeon, J., Orban, D., & Raynaud, P. (2023). A framework around limited-memory partitioned quasi-Newton methods (Cahier Du GERAD G-2023-17; pp. 1–27). GERAD. https://www.gerad.ca/en/papers/G-2023-17\n\n\nLeconte, G., & Orban, D. (2023). Complexity of trust-region methods with unbounded hessian approximations for smooth and nonsmooth optimization (Cahier Du GERAD G-2023-65; pp. 1–18). GERAD. https://doi.org/10.13140/RG.2.2.22451.40486\n\n\nLeconte, G., & Orban, D. (2023). The indefinite proximal gradient method (Cahier Du GERAD G-2023-37; pp. 1–24). GERAD. https://doi.org/10.13140/RG.2.2.11836.41606\n\n\nMontoison, A., Orban, D., & Saunders, M. A. (2023). MINARES: An iterative solver for symmetric linear systems (Cahier Du GERAD G-2023-40; pp. 1–18). GERAD. https://doi.org/10.13140/RG.2.2.18163.91683\n\n\nRaynaud, P., Orban, D., & Bigeon, J. (2023). Partially-separable loss to parallellize partitioned neural network training (Cahier Du GERAD G-2023-36; pp. 1–11). GERAD. https://www.gerad.ca/en/papers/G-2023-36\n\n\nRaynaud, P., Orban, D., & Bigeon, J. (2023). PLSR1: A limited-memory partitioned quasi-Newton optimizer for partially-separable loss functions (Cahier Du GERAD G-2023-41; pp. 1–8). GERAD. https://www.gerad.ca/en/papers/G-2023-41"
+  },
+  {
+    "objectID": "publications.html#section-2",
+    "href": "publications.html#section-2",
+    "title": "Publications",
+    "section": "2022",
+    "text": "2022\n\nJournal Articles\n\n\nAravkin, A. Y., Baraldi, R., & Orban, D. (2022). A proximal quasi-Newton trust-region method for nonsmooth regularized optimization. SIAM Journal on Optimization, 32(2), 900–929. https://doi.org/10.1137/21M1409536\n\n\nMigot, T., Orban, D., & Siqueira, A. S. (2022). PDENLPModels.jl: An NLPModel API for optimization problems with PDE constraints. Journal of Open Source Software, 7(80), 4736. https://doi.org/10.21105/joss.04736\n\n\nMigot, T., Orban, D., & Soares Siqueira, A. (2022). DCISolver.jl: A Julia Solver for Nonlinear Optimization using Dynamic Control of Infeasibility. The Journal of Open Source Software, 70(7), 3991. https://doi.org/10.21105/joss.03991\n\n\nMontoison, Alexis, & Orban, D. (2022). GPMR: An iterative method for unsymmetric partitioned linear systems. SIAM Journal on Matrix Analysis, 44(1), 293–311. https://doi.org/10.1137/21M1459265\n\n\n\n\nTechnical Reports\n\n\nAravkin, A., Baraldi, B., & Orban, D. (2022). A Levenberg-Marquardt method for nonsmooth regularized least squares (Cahier Du GERAD G-2022-58; pp. 1–22). GERAD. https://doi.org/10.13140/RG.2.2.28438.01604\n\n\nLakhmiri, Dounia, Orban, D., & Lodi, A. (2022). A stochastic proximal method for nonsmooth regularized finite sum optimization (Cahier Du GERAD G-2022-27; pp. 1–17). GERAD. https://doi.org/10.48550/arXiv.2206.06531\n\n\nOrban, D. (2022). Computing a sparse projection into a box (Cahier Du GERAD G-2022-12; pp. 1–15). GERAD. https://doi.org/10.13140/RG.2.2.15115.98088"
+  },
+  {
+    "objectID": "publications.html#section-3",
+    "href": "publications.html#section-3",
+    "title": "Publications",
+    "section": "2021",
+    "text": "2021\n\nJournal Articles\n\n\nAlexandre Ghannad, Orban, D., & Saunders, M. A. (2021). Linear systems arising in interior methods for convex optimization: A symmetric formulation with bounded condition number. Optimization Methods and Software, 0(0), 1–26. https://doi.org/10.1080/10556788.2021.1965599\n\n\nMontoison, Alexis, & Orban, D. (2021). TriCG and TriMR: Two iterative methods for symmetric quasi-definite systems. SIAM Journal on Scientific Computing, 43(4), A2502–A2525. https://doi.org/10.1137/20M1363030\n\n\nSerafino, D. di, & Orban, D. (2021). Constraint-preconditioned Krylov solvers for regularized saddle-point systems. SIAM Journal on Scientific Computing, 43(2), A1001–A1026. https://doi.org/10.1137/19M1291753\n\n\n\n\nProceedings\n\n\nMa, D., Saunders, M. A., & Orban, D. (2021). A Julia implementation of algorithm NCL for constrained optimization. In M. Al-Baali, L. Grandinetti, & A. Purnama (Eds.), Numerical analysis and optimization: Vol. v (pp. p–q). Springer International Publishing.\n\n\n\n\nTechnical Reports\n\n\nAravkin, A., Baraldi, R., Leconte, G., & Orban, D. (2024). Corrigendum: A proximal quasi-Newton trust-region method for nonsmooth regularized optimization (Cahier Du GERAD G-2021-12-SM; pp. 1–3). GERAD. https://doi.org/10.13140/RG.2.2.36250.45768\n\n\nLeconte, G., & Orban, D. (2021). RipQP: A multi-precision regularized predictor-corrector method for convex quadratic optimization (Cahier Du GERAD G-2021-03; pp. 1–34). GERAD. https://www.gerad.ca/en/papers/G-2021-03"
+  },
+  {
+    "objectID": "publications.html#section-4",
+    "href": "publications.html#section-4",
+    "title": "Publications",
+    "section": "2020",
+    "text": "2020\n\nJournal Articles\n\n\nMestdagh, G., Goussard, Y., & Orban, D. (2020). Scaled projected-direction methods with application to transmission tomography. Optimization and Engineering, 1–25. https://doi.org/10.1007/s11081-020-09484-0\n\n\nMontoison, A., & Orban, D. (2020). BiLQ: An iterative method for nonsymmetric linear systems with a quasi-minimum error property. SIAM Journal on Matrix Analysis and Applications, 41(3), 1145–1166. https://doi.org/10.1137/19M1290991\n\n\nOrban, D., & Siqueira, A. S. (2020). A regularization method for constrained nonlinear least squares. Computational Optimization and Applications, 76, 961–989. https://doi.org/10.1007/s10589-020-00201-2\n\n\nR. Estrin, Friedlander, M. P., Orban, D., & Saunders, M. A. (2020). Implementing a smooth exact penalty function for equality-constrained nonlinear optimization. SIAM Journal on Scientific Computing, 42(3), A1809–A1835. https://doi.org/10.1137/19M1238265\n\n\nR. Estrin, Friedlander, M. P., Orban, D., & Saunders, M. A. (2020). Implementing a smooth exact penalty function for general constrained nonlinear optimization. SIAM Journal on Scientific Computing, 42(3), A1836–A1859. https://doi.org/10.1137/19M1255069\n\n\n\n\nProceedings\n\n\nLotfi, S., Bonniot de Ruisselet, T., Orban, D., & Lodi, A. (2020). Stochastic damped L-BFGS with controlled norm of the Hessian approximation. https://doi.org/10.13140/RG.2.2.27851.41765/1\n\n\n\n\nTechnical Reports\n\n\nLotfi, Sanae, Orban, D., & Lodi, A. (2021). Stochastic adaptive regularization with dynamic sampling for machine learning (Cahier Du GERAD G-2020-51; pp. 1–17). GERAD."
+  },
+  {
+    "objectID": "publications.html#section-5",
+    "href": "publications.html#section-5",
+    "title": "Publications",
+    "section": "2019",
+    "text": "2019\n\nJournal Articles\n\n\nButtari, A., Orban, D., Ruiz, D., & Titley-Peloquin, D. (2019). A tridiagonalization method for symmetric saddle-point system. SIAM Journal on Scientific Computing, 41(5), S409–S432. https://doi.org/10.1137/18M1194900\n\n\nM. Dehghani, A. Lambe, & Orban, D. (2019). A regularized interior-point method for constrained linear least squares. INFOR: Information Systems and Operational Research, 58(2), 202–224. https://doi.org/10.1080/03155986.2018.1559428\n\n\nM.-A. Dahito, & Orban, D. (2019). The conjugate residual method in linesearch and trust-region methods. SIAM Journal on Optimization, 29(3), 1988–2025. https://doi.org/10.1137/18M1204255\n\n\nR. Estrin, Orban, D., & Saunders, M. A. (2019). Euclidean-norm error bounds for SYMMLQ and CG. SIAM Journal on Matrix Analysis, 40(1), 235–253. https://doi.org/10.1137/16M1094816\n\n\nR. Estrin, Orban, D., & Saunders, M. A. (2019). LNLQ: An iterative method for least-norm problems with an error minimization property. SIAM Journal on Matrix Analysis, 40(3), 1102–1124. https://doi.org/10.1137/18M1194948\n\n\nR. Estrin, Orban, D., & Saunders, M. A. (2019). LSLQ: An iterative method for linear least-squares with an error minimization property. SIAM Journal on Matrix Analysis, 40(1), 254–275. https://doi.org/10.1137/17M1113552"
+  },
+  {
+    "objectID": "publications.html#section-6",
+    "href": "publications.html#section-6",
+    "title": "Publications",
+    "section": "2018",
+    "text": "2018\n\nJournal Articles\n\n\nS. Arreckx, & Orban, D. (2018). A regularized factorization-free method for equality-constrained optimization. SIAM Journal on Optimization, 28(2), 1613–1639. https://doi.org/10.1137/16M1088570\n\n\n\n\nProceedings\n\n\nD. Ma, Judd, K., Orban, D., & Saunders, M. (2018). Stabilized optimization via an NCL algorithm. In M. Al-Baali, L. Grandinetti, & A. Purnama (Eds.), Numerical analysis and optimization (Vol. 235, pp. 173–191). Springer International Publishing. https://doi.org/10.1007/978-3-319-90026-1\\_8"
+  },
+  {
+    "objectID": "publications.html#section-7",
+    "href": "publications.html#section-7",
+    "title": "Publications",
+    "section": "2017",
+    "text": "2017\n\nBooks\n\n\nOrban, D., & Arioli, M. (2017). Iterative solution of symmetric quasi-definite linear systems (Vol. 3). SIAM. https://doi.org/10.1137/1.9781611974737\n\n\n\n\nTechnical Reports\n\n\nA.-S. Crélot, Beauthier, C., Orban, D., Sainvitu, C., & Sartenaer, A. (2017). Combining surrogate strategies with MADS for mixed-variable derivative-free optimization (Cahier Du GERAD G-2017-70). GERAD. https://doi.org/10.13140/RG.2.2.25690.24008\n\n\nCôté, P., K. Demeester, Orban, D., & M. Towhidi. (2017). Numerical methods for stochastic dynamic programming with application to hydropower optimization (Cahier Du GERAD G-2017-64). GERAD. https://doi.org/10.13140/RG.2.2.32660.81280\n\n\nGoussard, Y., M. McLaughlin, & Orban, D. (2017). Factorization-free methods for computed tomography (Cahier Du GERAD G-2017-65). GERAD. https://doi.org/10.13140/RG.2.2.17141.88808"
+  },
+  {
+    "objectID": "publications.html#section-8",
+    "href": "publications.html#section-8",
+    "title": "Publications",
+    "section": "2016",
+    "text": "2016\n\nJournal Articles\n\n\nA. Dehghani, Goffin, J.-L., & Orban, D. (2017). A primal-dual regularized interior-point method for semidefinite programming. Optimization Methods and Software, 32(1), 193–219. https://doi.org/10.1080/10556788.2016.1235708\n\n\n\n\nTechnical Reports\n\n\nS. Arreckx, Orban, D., & N. van Omme. (2016). NLP.py: An object-oriented environment for large-scale optimization (Cahier Du GERAD G-2016-42). GERAD. https://doi.org/10.13140/RG.2.1.2846.6803"
+  },
+  {
+    "objectID": "publications.html#section-9",
+    "href": "publications.html#section-9",
+    "title": "Publications",
+    "section": "2015",
+    "text": "2015\n\nJournal Articles\n\n\nOrban, D., & M. Towhidi. (2016). Customizing the solution process of COIN-OR’s linear solvers with Python. Mathematical Programming Computation, 8(4), 377–391. https://doi.org/10.1007/s12532-015-0094-2\n\n\nS. Arreckx, A. Lambe, Martins, J. R. R. A., & Orban, D. (2016). A matrix-free augmented Lagrangian algorithm with application to large-scale structural design optimization. Optimization and Engineering, 17, 359–384. https://doi.org/10.1007/s11081-015-9287-9\n\n\nGould, N. I. M., Orban, D., & L. Toint, Ph. (2015). CUTEst: A Constrained and Unconstrained Testing Environment with safe threads for Mathematical Optimization. Computational Optimization and Applications, 60, 545–557. https://doi.org/10.1007/s10589-014-9687-3\n\n\nOrban, D. (2015). Limited-memory \\(LDL^T\\) factorization of symmetric quasi-definite matrices with application to constrained optimization. Numerical Algorithms, 70(1), 9–41. https://doi.org/10.1007/s11075-014-9933-x\n\n\n\n\nProceedings\n\n\nGould, N. I. M., Orban, D., & L. Toint, Ph. (2015). An interior-point \\(\\ell_{1}\\)-penalty method for nonlinear optimization. In M. Al-Baali, L. Grandinetti, & A. Purnama (Eds.), Recent developments in numerical analysis and optimization (Vol. 134, pp. 117–150). Springer. https://doi.org/10.1007/978-3-319-17689-5\n\n\n\n\nTechnical Reports\n\n\nDussault, J.-P., & Orban, D. (2015). A scalable implementation of adaptive cubic regularization methods using shifted linear systems (Cahier Du GERAD G-2015-109). GERAD.\n\n\n\n\nUnpublished\n\n\nOrban, D. (2015). A collection of linear systems arising from interior-point methods for quadratic optimization (Cahier Du GERAD G-2015-117). GERAD."
+  },
+  {
+    "objectID": "publications.html#section-10",
+    "href": "publications.html#section-10",
+    "title": "Publications",
+    "section": "2014",
+    "text": "2014\n\nJournal Articles\n\n\nAudet, C., C.-K. Dang, & Orban, D. (2014). Optimization of algorithms with OPAL. Mathematical Programming Computation, 6(3), 233–254. https://doi.org/10.1007/s12532-014-0067-x\n\n\nGould, N. I. M., Orban, D., & Rees, T. (2014). Projected Krylov methods for saddle-point systems. SIAM Journal on Matrix Analysis and Applications, 35(4), 1329–1343. https://doi.org/10.1137/130916394\n\n\nGreif, C., E. Moulding, & Orban, D. (2014). Bounds on the eigenvalues of matrices arising from interior-point methods. SIAM Journal on Optimization, 24(1), 49–83. https://doi.org/10.1137/120890600\n\n\n\n\nTechnical Reports\n\n\nOrban, D. (2014). The projected Golub-Kahan process for constrained linear least-squares problems (Cahier Du GERAD G-2014-15). GERAD."
+  },
+  {
+    "objectID": "publications.html#section-11",
+    "href": "publications.html#section-11",
+    "title": "Publications",
+    "section": "2013",
+    "text": "2013\n\nJournal Articles\n\n\nGould, N. I. M., Orban, D., & D. Robinson. (2013). Trajectory-following methods for large-scale degenerate convex quadratic programming. Mathematical Programming Computation, 5(2), 113–142. https://doi.org/10.1007/s12532-012-0050-3\n\n\nJ.-P. Harvey, Chartrand, P., Eriksson, G., & Orban, D. (2013). Global minimization of the Gibbs energy of multicomponent systems involving the presence of order/disorder phase transitions. American Journal of Science, 313, 199–241. https://doi.org/10.2475/03.2013.02"
+  },
+  {
+    "objectID": "publications.html#section-12",
+    "href": "publications.html#section-12",
+    "title": "Publications",
+    "section": "2012",
+    "text": "2012\n\nJournal Articles\n\n\nArmand, P., Benoist, J., & Orban, D. (2012). From global to local convergence of interior methods for nonlinear optimization. Optimization Methods and Software, 28(5), 1051–1080. https://doi.org/10.1080/10556788.2012.668905\n\n\nArmand, P., & Orban, D. (2012). The squared slacks transformation in nonlinear programming. Sultan Qaboos University Journal for Science, 17(1), 22–29.\n\n\nFriedlander, M. P., & Orban, D. (2012). A primal-dual regularized interior-point method for convex quadratic programs. Mathematical Programming Computation, 4(1), 71–107. https://doi.org/10.1007/s12532-012-0035-2\n\n\nZ. Coulibaly, & Orban, D. (2012). An \\(\\ell_1\\) elastic interior-point method for mathematical programs with complementarity constraints. SIAM Journal on Optimization, 22(1), 187–211. https://doi.org/10.1137/090777232\n\n\n\n\nTechnical Reports\n\n\nDehghani, A., Goffin, J.-L., & Orban, D. (2012). Solving unconstrained nonlinear programs using ACCPM (Cahier Du GERAD G-2012-02). GERAD.\n\n\n\n\nUnpublished\n\n\nOrban, D. (2013). Numerical optimization in the Python ecosystem. GERAD Newsletter."
+  },
+  {
+    "objectID": "publications.html#section-13",
+    "href": "publications.html#section-13",
+    "title": "Publications",
+    "section": "2011",
+    "text": "2011\n\nJournal Articles\n\n\nAudet, C., C.-K. Dang, & Orban, D. (2011). Efficient use of parallelism in algorithmic parameter optimization applications. Optimization Letters, 7(3), 421–433. https://doi.org/10.1007/s11590-011-0428-6\n\n\n\n\nUnpublished\n\n\nAyotte-Sauvé, E., M. Chugunova, Cortes, B., Lina, A., A. Majumdar, Orban, D., C. Prior, & Zalzal, V. (2011). On equidistant points on a curve [Activity Report]. GERAD.\n\n\nOrban, D. (2011). Templating and automatic code generation for performance with Python ({Cahier Du GERAD} G-2011-30). GERAD."
+  },
+  {
+    "objectID": "publications.html#section-14",
+    "href": "publications.html#section-14",
+    "title": "Publications",
+    "section": "2010",
+    "text": "2010\n\nJournal Articles\n\n\nFourer, R., Maheshwari, C., Neumaier, A., Orban, D., & Schichl, H. (2010). Convexity and concavity detection in computational graphs. INFORMS Journal on Computing, 22, 26–43. https://doi.org/10.1287/ijoc.1090.0321\n\n\nFourer, R., & Orban, D. (2010). The DrAMPL meta solver for optimization problem analysis. Computational Management Science, 7(4), 437–463. https://doi.org/10.1007/s10287-009-0101-z\n\n\nOrban, D., V. Raymond, & Soumis, F. (2010). A new version of the improved primal simplex for degenerate linear programs. Computers and Operations Research, 37(1), 91–98. https://doi.org/10.1016/j.cor.2009.03.020\n\n\n\n\nProceedings\n\n\nAudet, C., C.-K. Dang, & Orban, D. (2010). Algorithmic parameter optimization of the DFO method with the OPAL framework. In K. Naono, K. Teranishi, J. Cavazos, & R. Suda (Eds.), Software automatic tuning: From concepts to state-of-the-art results (first, pp. 255–274). Springer. https://doi.org/10.1007/978-1-4419-6935-4\n\n\nJ.-P. Harvey, Chartrand, P., Eriksson, G., & Orban, D. (2010). Gibbs energy minimization challenges using implicit variables solution models. TOFA: Discussion Meeting on Thermodynamics of Alloys."
+  },
+  {
+    "objectID": "publications.html#section-15",
+    "href": "publications.html#section-15",
+    "title": "Publications",
+    "section": "2009",
+    "text": "2009\n\nJournal Articles\n\n\nArmand, P., A. Kiselev, Marcotte, O., & Orban, D. (2009). Self calibration of a pinhole camera. Mathematics-in-Industry Case Studies, 1, 81–98.\n\n\n\n\nUnpublished\n\n\nOrban, D. (2009). The lightning AMPL tutorial. A guide for nonlinear optimization users ({Cahier Du GERAD} G-2009-66). GERAD."
+  },
+  {
+    "objectID": "publications.html#section-16",
+    "href": "publications.html#section-16",
+    "title": "Publications",
+    "section": "2008",
+    "text": "2008\n\nJournal Articles\n\n\nArmand, P., Benoist, J., & Orban, D. (2008). Dynamic updates of the barrier parameter in primal-dual methods for nonlinear programming. Computational Optimization and Applications, 41(1), 1–25. https://doi.org/10.1007/s10589-007-9095-z\n\n\n\n\nUnpublished\n\n\nGould, N. I. M., Orban, D., & L. Toint, Ph. (2008). LANCELOT_SIMPLE: A simple interface for LANCELOT-b ({Cahier Du GERAD} G-2008-11). GERAD.\n\n\nOrban, D. (2008). Projected Krylov methods for unsymmetric augmented systems ({Cahier Du GERAD} G-2008-46). GERAD."
+  },
+  {
+    "objectID": "publications.html#section-17",
+    "href": "publications.html#section-17",
+    "title": "Publications",
+    "section": "2006",
+    "text": "2006\n\nJournal Articles\n\n\nAudet, C., & Orban, D. (2006). Finding optimal algorithmic parameters using the mesh adaptive direct search algorithm. SIAM Journal on Optimization, 17(3), 642–664. https://doi.org/10.1137/040620886\n\n\nWaltz, R. A., Morales, J. L., Nocedal, J., & Orban, D. (2006). An interior algorithm for nonlinear optimization that combines line search and trust region steps. Mathematical Programming, 107(3), 391–408. https://doi.org/10.1007/s10107-004-0560-5"
+  },
+  {
+    "objectID": "publications.html#section-18",
+    "href": "publications.html#section-18",
+    "title": "Publications",
+    "section": "2005",
+    "text": "2005\n\nJournal Articles\n\n\nGould, N. I. M., Orban, D., Sartenaer, A., & Toint, P. L. (2005). Sensitivity of trust-region algorithms to their parameters. 4OR, 3(3), 227–241. https://doi.org/10.1007/s10288-005-0065-y\n\n\nGould, N., Orban, D., & Toint, P. (2005). Numerical methods for large-scale nonlinear optimization. Acta Numerica, 14, 299–361. https://doi.org/10.1017/S0962492904000248\n\n\n\n\nProceedings\n\n\nMenvielle, N., Goussard, Y., Orban, D., & Soulez, G. (2005). Reduction of beam-hardening artifacts in X-ray CT. Engineering in Medicine and Biology Society, 2005. 27th Annual International Conference of the IEEE-EMBS 2005., 1865–1868. https://doi.org/10.1109/IEMBS.2005.1616814"
+  },
+  {
+    "objectID": "publications.html#section-19",
+    "href": "publications.html#section-19",
+    "title": "Publications",
+    "section": "2003",
+    "text": "2003\n\nJournal Articles\n\n\nGould, N. I. M., Orban, D., & Toint, Ph. L. (2003). CUTEr and SifDec: A constrained and unconstrained testing environment, revisited. ACM Trans. Math. Softw., 29(4), 373–394. https://doi.org/10.1145/962437.962439\n\n\nGould, N. I. M., Orban, D., & Toint, Ph. L. (2003). GALAHAD, a library of thread-safe fortran 90 packages for large-scale nonlinear optimization. ACM Trans. Math. Softw., 29(4), 353–372. https://doi.org/10.1145/962437.962438"
+  },
+  {
+    "objectID": "publications.html#section-20",
+    "href": "publications.html#section-20",
+    "title": "Publications",
+    "section": "2002",
+    "text": "2002\n\nJournal Articles\n\n\nGould, N. I. M., Orban, D., Sartenaer, A., & Toint, P. L. (2002). Componentwise fast convergence in the solution of full-rank systems of nonlinear equations. Mathematical Programming, 92(3), 481–508. https://doi.org/10.1007/s101070100287\n\n\nWright, S. J., & Orban, D. (2002). Properties of the log-barrier function on degenerate nonlinear programs. Mathematics of Operations Research, 27(3), 585–613. https://doi.org/10.1287/moor.27.3.585.312\n\n\n\n\nUnpublished\n\n\nGould, N. I. M., Orban, D., & L. Toint, Ph. (2002). Results from a numerical evaluation of LANCELOT b (Internal Report NAGIR-2002-1). Rutherford Appleton Laboratory."
+  },
+  {
+    "objectID": "publications.html#section-21",
+    "href": "publications.html#section-21",
+    "title": "Publications",
+    "section": "2001",
+    "text": "2001\n\nJournal Articles\n\n\nGould, N. I. M., Orban, D., Sartenaer, A., & L. Toint, Philippe. (2001). Superlinear convergence of primal-dual interior point algorithms for nonlinear programming. SIAM Journal on Optimization, 11(4), 974–1002. https://doi.org/10.1137/S1052623400370515"
+  },
+  {
+    "objectID": "publications.html#section-22",
+    "href": "publications.html#section-22",
+    "title": "Publications",
+    "section": "2000",
+    "text": "2000\n\nJournal Articles\n\n\nConn, A. R., Gould, N. I. M., Orban, D., & Toint, P. L. (2000). A primal-dual trust-region algorithm for non-convex nonlinear programming. Mathematical Programming, 87(2), 215–249. https://doi.org/10.1007/s101070050112"
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "A modeling and solution environment for continuous optimization in the high-level and high-performance Julia language. The environment provides access to the CUTEst and AMPL modeling environments and can be used alongside JuMP.\nImportant features include complete optimization solvers, lazy linear operators, the largest collection of Krylov methods, problem collections, interfaces to high-performance linear algebra kernels."
+  },
+  {
+    "objectID": "software.html#jsojulia-ecosystem-for-optimization-and-linear-algebra",
+    "href": "software.html#jsojulia-ecosystem-for-optimization-and-linear-algebra",
+    "title": "Software",
+    "section": "",
+    "text": "A modeling and solution environment for continuous optimization in the high-level and high-performance Julia language. The environment provides access to the CUTEst and AMPL modeling environments and can be used alongside JuMP.\nImportant features include complete optimization solvers, lazy linear operators, the largest collection of Krylov methods, problem collections, interfaces to high-performance linear algebra kernels."
+  },
+  {
+    "objectID": "software.html#cutest",
+    "href": "software.html#cutest",
+    "title": "Software",
+    "section": "CUTEst",
+    "text": "CUTEst\nA versatile testing environment for optimization and linear algebra solvers. The package contains a collection of test problems, along with Fortran 77, Fortran 90/95, C/C++ and Matlab tools intended to help developers design, compare and improve new and existing solvers. It is usually associated to SIFDecode, a decoder for problems modeled in the SIF—a generalization of the MPS modeling language for linear programs. CUTEst realizes the interface between such problems and a variety of popular solvers."
+  },
+  {
+    "objectID": "software.html#galahad",
+    "href": "software.html#galahad",
+    "title": "Software",
+    "section": "GALAHAD",
+    "text": "GALAHAD\nA thread-safe library of Fortran 90 packages for nonlinear optimization problems. Areas currently covered by the library include unconstrained and bound-constrained optimization, quadratic programming, nonlinear programming, systems of nonlinear equations and inequalities, and nonlinear least squares problems. The library also contains a quadratic program preprocessor and a Lanczos-based method for trust-region subproblems."
+  }
+]

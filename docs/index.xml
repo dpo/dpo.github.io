@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Dominique Orban</title>
+<link>https://dpo.github.io/</link>
+<atom:link href="https://dpo.github.io/index.xml" rel="self" type="application/rss+xml"/>
+<description>Dominique&#39;s Feed</description>
+<generator>quarto-99.9.9</generator>
+<lastBuildDate>Thu, 15 Jun 2017 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Classic Paper in Optimization</title>
+  <dc:creator>Dominique Orban</dc:creator>
+  <link>https://dpo.github.io/posts/2017-06-15-classic-paper/2017-06-15-classic-paper.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Google announced today that my paper <em>An interior algorithm for nonlinear optimization that combines line search and trust region steps</em> is among <a href="https://scholar.google.com/citations?hl=en&amp;citsig=AAGBfm1OdPE6Bb-5Fl3GPJgr57sNJjIHrA&amp;view_op=list_classic_articles&amp;by=2006&amp;vq=mathematicaloptimization&amp;user=OCFgRysAAAAJ#uOCFgRysAAAAJ">the top cited papers published in 2006 in optimization</a>.</p>
+<p>The paper appeared in <a href="https://link.springer.com/journal/10107">Mathematical Programming</a> and concerns extensions of the frighteningly effective KNITRO solver, now known as <a href="https://www.artelys.com/en/optimization-tools/knitro">Artely KNITRO</a>.</p>
+<p>KNITRO’s main competitor in the continuous optimization arena is arguably the highly-successful open-source solver <a href="https://projects.coin-or.org/Ipopt">IPOPT</a> by Andreas Wächter. IPOPT tops the list of most-cited papers in optimization in 2006, according to Google’s ranking.</p>
+<p>Andreas is now faculty at Northwestern University, where I held a post-doctoral appointment at the time I co-authored the KNITRO paper.</p>
+<p>As it happens, I currently share an office with Charles Audet, who also authors one of the most-cited papers that year.</p>
+<p>At the time of this writing, Google only published the most-cited papers for 2006. Presumably, other years will follow.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <category>publications</category>
+  <guid>https://dpo.github.io/posts/2017-06-15-classic-paper/2017-06-15-classic-paper.html</guid>
+  <pubDate>Thu, 15 Jun 2017 04:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>New Book</title>
+  <dc:creator>Dominique Orban</dc:creator>
+  <link>https://dpo.github.io/posts/2017-04-13-sqd-book/2017-04-13-sqd-book.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://dpo.github.io/posts/2017-04-13-sqd-book/sqdbook.jpg" class="img-fluid figure-img"></p>
+<figcaption>book cover</figcaption>
+</figure>
+</div>
+<p><a href="http://www.siam.org">SIAM</a> just announced the publication of my book Iterative Solution of Symmetric Quasi-Definite Linear Systems in their <em>Spotlights</em> series, written with <a href="https://www.researchgate.net/profile/Mario_Arioli">Mario Arioli</a>.</p>
+<p>The book is suitable for a graduate course on iterative methods for linear systems with applications to optimization and fluid dynamics.</p>
+<p>We distribute software that implements the iterative methods discussed in the book in <a href="https://github.com/optimizers/Krylov.m">Matlab</a>, <a href="https://github.com/PythonOptimizers/pykrylov">Python</a> and <a href="https://github.com/JuliaSmoothOptimizers/Krylov.jl">Julia</a>.</p>
+<p>In 2015 I taught an accelerated graduate-level course at the university of Louvain-la-Neuve (Belgium) describing optimization methods that lead to quasi-definite linear systems. The course material is available <a href="https://sites.uclouvain.be/socn/Courses/Courses2014-4">here</a>.</p>
+<p>Head to the <a href="http://bookstore.siam.org/sl03">SIAM Bookstore</a> to get your copy of the book!</p>
+<p>Update: here is a list of <a href="https://www.researchgate.net/project/Iterative-Solution-of-Symmetric-Quasi-Definite-Linear-Systems-SIAM-book/update/5a456f2bb53d2f0bba4776db">errata</a>.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <category>publications</category>
+  <category>books</category>
+  <guid>https://dpo.github.io/posts/2017-04-13-sqd-book/2017-04-13-sqd-book.html</guid>
+  <pubDate>Thu, 13 Apr 2017 04:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
