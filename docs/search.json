@@ -35,6 +35,27 @@
     "text": "Classic Paper in Optimization\n\n\nAn interior algorithm for nonlinear optimization that combines line search and trust region steps\n\n\n\nnews\n\n\npublications\n\n\n\n\n\n\n\n\n\nJun 15, 2017\n\n\nDominique Orban\n\n\n\n\n\n\n\n\n\n\n\n\nNew Book\n\n\nIterative Solution of Symmetric Quasi-Definite Linear Systems\n\n\n\nnews\n\n\npublications\n\n\nbooks\n\n\n\n\n\n\n\n\n\nApr 13, 2017\n\n\nDominique Orban\n\n\n\n\n\n\nNo matching items"
   },
   {
+    "objectID": "posts/2017-04-13-sqd-book/2017-04-13-sqd-book.html",
+    "href": "posts/2017-04-13-sqd-book/2017-04-13-sqd-book.html",
+    "title": "New Book",
+    "section": "",
+    "text": "book cover\n\n\nSIAM just announced the publication of my book Iterative Solution of Symmetric Quasi-Definite Linear Systems in their Spotlights series, written with Mario Arioli.\nThe book is suitable for a graduate course on iterative methods for linear systems with applications to optimization and fluid dynamics.\nWe distribute software that implements the iterative methods discussed in the book in Matlab, Python and Julia.\nIn 2015 I taught an accelerated graduate-level course at the university of Louvain-la-Neuve (Belgium) describing optimization methods that lead to quasi-definite linear systems. The course material is available here.\nHead to the SIAM Bookstore to get your copy of the book!\nUpdate: here is a list of errata."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My scientific interests span computational optimization, numerical analysis, numerical linear algebra, scientific computing, and modeling environments. I have a keen interest in the interplay between computational science and programming languages.\nMy research focuses on the design, convergence analysis, numerical properties, practical implementation, and testing of algorithms for continuous optimization and their linear algebra kernels. I am equally interested in applying algorithms that I design to problems that arise in engineering and science.\nMy research activities thus comprise tightly interconnected theoretical analyses of computational methods and high-quality implementations to aid in the modeling and solution of practical problems."
+  },
+  {
+    "objectID": "posts/2017-06-15-classic-paper/2017-06-15-classic-paper.html",
+    "href": "posts/2017-06-15-classic-paper/2017-06-15-classic-paper.html",
+    "title": "Classic Paper in Optimization",
+    "section": "",
+    "text": "Google announced today that my paper An interior algorithm for nonlinear optimization that combines line search and trust region steps is among the top cited papers published in 2006 in optimization.\nThe paper appeared in Mathematical Programming and concerns extensions of the frighteningly effective KNITRO solver, now known as Artely KNITRO.\nKNITRO’s main competitor in the continuous optimization arena is arguably the highly-successful open-source solver IPOPT by Andreas Wächter. IPOPT tops the list of most-cited papers in optimization in 2006, according to Google’s ranking.\nAndreas is now faculty at Northwestern University, where I held a post-doctoral appointment at the time I co-authored the KNITRO paper.\nAs it happens, I currently share an office with Charles Audet, who also authors one of the most-cited papers that year.\nAt the time of this writing, Google only published the most-cited papers for 2006. Presumably, other years will follow."
+  },
+  {
     "objectID": "publications_body.html#section-1",
     "href": "publications_body.html#section-1",
     "title": "Dominique Orban",
@@ -189,46 +210,18 @@
     "text": "2000\n\nJournal Articles"
   },
   {
-    "objectID": "posts/2017-06-15-classic-paper/2017-06-15-classic-paper.html",
-    "href": "posts/2017-06-15-classic-paper/2017-06-15-classic-paper.html",
-    "title": "Classic Paper in Optimization",
-    "section": "",
-    "text": "Google announced today that my paper An interior algorithm for nonlinear optimization that combines line search and trust region steps is among the top cited papers published in 2006 in optimization.\nThe paper appeared in Mathematical Programming and concerns extensions of the frighteningly effective KNITRO solver, now known as Artely KNITRO.\nKNITRO’s main competitor in the continuous optimization arena is arguably the highly-successful open-source solver IPOPT by Andreas Wächter. IPOPT tops the list of most-cited papers in optimization in 2006, according to Google’s ranking.\nAndreas is now faculty at Northwestern University, where I held a post-doctoral appointment at the time I co-authored the KNITRO paper.\nAs it happens, I currently share an office with Charles Audet, who also authors one of the most-cited papers that year.\nAt the time of this writing, Google only published the most-cited papers for 2006. Presumably, other years will follow."
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "My scientific interests span computational optimization, numerical analysis, numerical linear algebra, scientific computing, and modeling environments. I have a keen interest in the interplay between computational science and programming languages.\nMy research focuses on the design, convergence analysis, numerical properties, practical implementation, and testing of algorithms for continuous optimization and their linear algebra kernels. I am equally interested in applying algorithms that I design to problems that arise in engineering and science.\nMy research activities thus comprise tightly interconnected theoretical analyses of computational methods and high-quality implementations to aid in the modeling and solution of practical problems."
-  },
-  {
-    "objectID": "posts/2017-04-13-sqd-book/2017-04-13-sqd-book.html",
-    "href": "posts/2017-04-13-sqd-book/2017-04-13-sqd-book.html",
-    "title": "New Book",
-    "section": "",
-    "text": "book cover\n\n\nSIAM just announced the publication of my book Iterative Solution of Symmetric Quasi-Definite Linear Systems in their Spotlights series, written with Mario Arioli.\nThe book is suitable for a graduate course on iterative methods for linear systems with applications to optimization and fluid dynamics.\nWe distribute software that implements the iterative methods discussed in the book in Matlab, Python and Julia.\nIn 2015 I taught an accelerated graduate-level course at the university of Louvain-la-Neuve (Belgium) describing optimization methods that lead to quasi-definite linear systems. The course material is available here.\nHead to the SIAM Bookstore to get your copy of the book!\nUpdate: here is a list of errata."
-  },
-  {
-    "objectID": "publications/articles2020.html",
-    "href": "publications/articles2020.html",
-    "title": "Dominique Orban",
-    "section": "",
-    "text": "References\n\nMestdagh, G., Goussard, Y., & Orban, D. (2020). Scaled projected-direction methods with application to transmission tomography. Optimization and Engineering, 1–25. https://doi.org/10.1007/s11081-020-09484-0\n\n\nMontoison, A., & Orban, D. (2020). BiLQ: An iterative method for nonsymmetric linear systems with a quasi-minimum error property. SIAM Journal on Matrix Analysis and Applications, 41(3), 1145–1166. https://doi.org/10.1137/19M1290991\n\n\nOrban, D., & Siqueira, A. S. (2020). A regularization method for constrained nonlinear least squares. Computational Optimization and Applications, 76, 961–989. https://doi.org/10.1007/s10589-020-00201-2\n\n\nR. Estrin, Friedlander, M. P., Orban, D., & Saunders, M. A. (2020a). Implementing a smooth exact penalty function for equality-constrained nonlinear optimization. SIAM Journal on Scientific Computing, 42(3), A1809–A1835. https://doi.org/10.1137/19M1238265\n\n\nR. Estrin, Friedlander, M. P., Orban, D., & Saunders, M. A. (2020b). Implementing a smooth exact penalty function for general constrained nonlinear optimization. SIAM Journal on Scientific Computing, 42(3), A1836–A1859. https://doi.org/10.1137/19M1255069"
-  },
-  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Fowkes, J., Lister, A., Montoison, A., & Orban, D. (2024). LibHSL: The ultimate collection for large-scale scientific computation (Cahier Du GERAD G-2024-06; pp. 1–5). GERAD. https://doi.org/10.13140/RG.2.2.30649.54889\n\n\nHuang, N., Dai, Y.-H., Orban, D., & Saunders, M. A. (2024). An inexact augmented Lagrangian algorithm for unsymmetric saddle-point systems (Cahier Du GERAD G-2024-30; pp. 1–26). GERAD. https://doi.org/10.13140/RG.2.2.17308.09602\n\n\nLeconte, G., & Orban, D. (2024). An interior-point trust-region method for nonsmooth regularized bound-constrained optimization (Cahier Du GERAD G-2024-17; pp. 1–32). GERAD. https://doi.org/10.13140/RG.2.2.18132.99201"
+    "text": "Diouane, Y., Habiboullah, M. L., & Orban, D. (2024). Complexity of trust-region methods in the presence of unbounded hessian approximations (Cahier Du GERAD G-2024-43; pp. 1–18). GERAD. https://doi.org/10.13140/RG.2.2.32538.04803\n\n\nFowkes, J., Lister, A., Montoison, A., & Orban, D. (2024). LibHSL: The ultimate collection for large-scale scientific computation (Cahier Du GERAD G-2024-06; pp. 1–5). GERAD. https://doi.org/10.13140/RG.2.2.30649.54889\n\n\nHuang, N., Dai, Y.-H., Orban, D., & Saunders, M. A. (2024). An inexact augmented Lagrangian algorithm for unsymmetric saddle-point systems (Cahier Du GERAD G-2024-30; pp. 1–26). GERAD. https://doi.org/10.13140/RG.2.2.17308.09602\n\n\nLeconte, G., & Orban, D. (2024). An interior-point trust-region method for nonsmooth regularized bound-constrained optimization (Cahier Du GERAD G-2024-17; pp. 1–32). GERAD. https://doi.org/10.13140/RG.2.2.18132.99201"
   },
   {
     "objectID": "publications.html#section",
     "href": "publications.html#section",
     "title": "Publications",
     "section": "",
-    "text": "Fowkes, J., Lister, A., Montoison, A., & Orban, D. (2024). LibHSL: The ultimate collection for large-scale scientific computation (Cahier Du GERAD G-2024-06; pp. 1–5). GERAD. https://doi.org/10.13140/RG.2.2.30649.54889\n\n\nHuang, N., Dai, Y.-H., Orban, D., & Saunders, M. A. (2024). An inexact augmented Lagrangian algorithm for unsymmetric saddle-point systems (Cahier Du GERAD G-2024-30; pp. 1–26). GERAD. https://doi.org/10.13140/RG.2.2.17308.09602\n\n\nLeconte, G., & Orban, D. (2024). An interior-point trust-region method for nonsmooth regularized bound-constrained optimization (Cahier Du GERAD G-2024-17; pp. 1–32). GERAD. https://doi.org/10.13140/RG.2.2.18132.99201"
+    "text": "Diouane, Y., Habiboullah, M. L., & Orban, D. (2024). Complexity of trust-region methods in the presence of unbounded hessian approximations (Cahier Du GERAD G-2024-43; pp. 1–18). GERAD. https://doi.org/10.13140/RG.2.2.32538.04803\n\n\nFowkes, J., Lister, A., Montoison, A., & Orban, D. (2024). LibHSL: The ultimate collection for large-scale scientific computation (Cahier Du GERAD G-2024-06; pp. 1–5). GERAD. https://doi.org/10.13140/RG.2.2.30649.54889\n\n\nHuang, N., Dai, Y.-H., Orban, D., & Saunders, M. A. (2024). An inexact augmented Lagrangian algorithm for unsymmetric saddle-point systems (Cahier Du GERAD G-2024-30; pp. 1–26). GERAD. https://doi.org/10.13140/RG.2.2.17308.09602\n\n\nLeconte, G., & Orban, D. (2024). An interior-point trust-region method for nonsmooth regularized bound-constrained optimization (Cahier Du GERAD G-2024-17; pp. 1–32). GERAD. https://doi.org/10.13140/RG.2.2.18132.99201"
   },
   {
     "objectID": "publications.html#section-1",
