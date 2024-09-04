@@ -1,7 +1,6 @@
 ---
 title: "Publications"
 bibliography:
-    articles2024: publications/articles2024.bib
     proceedings2024: publications/proceedings2024.bib
     techrep2024: publications/techrep2024.bib
     articles2023: publications/articles2023.bib

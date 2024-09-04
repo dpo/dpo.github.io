@@ -1,11 +1,6 @@
 
 ## 2024
 
-### Journal Articles
-
-::: {#refs-articles2024}
-:::
-
 ### Proceedings
 
 ::: {#refs-proceedings2024}
