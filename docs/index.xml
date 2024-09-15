@@ -6,17 +6,16 @@
       version="2.0">
 <channel>
 <title>Dominique Orban</title>
-<link>https://dpo.github.io/</link>
+<link>https://dpo.github.io/index.html</link>
 <atom:link href="https://dpo.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>Dominique&#39;s Feed</description>
-<generator>quarto-99.9.9</generator>
+<generator>quarto-1.3.433</generator>
 <lastBuildDate>Thu, 15 Jun 2017 04:00:00 GMT</lastBuildDate>
 <item>
   <title>Classic Paper in Optimization</title>
   <dc:creator>Dominique Orban</dc:creator>
   <link>https://dpo.github.io/posts/2017-06-15-classic-paper/2017-06-15-classic-paper.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -43,11 +42,10 @@
 
 
 
-
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://dpo.github.io/posts/2017-04-13-sqd-book/sqdbook.jpg" class="img-fluid figure-img"></p>
-<figcaption>book cover</figcaption>
+<figcaption class="figure-caption">book cover</figcaption>
 </figure>
 </div>
 <p><a href="http://www.siam.org">SIAM</a> just announced the publication of my book Iterative Solution of Symmetric Quasi-Definite Linear Systems in their <em>Spotlights</em> series, written with <a href="https://www.researchgate.net/profile/Mario_Arioli">Mario Arioli</a>.</p>

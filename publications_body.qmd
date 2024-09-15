@@ -129,11 +129,6 @@
 ::: {#refs-proceedings2015}
 :::
 
-### Technical Reports
-
-::: {#refs-techrep2015}
-:::
-
 ### Unpublished
 
 ::: {#refs-unpublished2015}

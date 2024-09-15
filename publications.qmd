@@ -23,7 +23,6 @@ bibliography:
     techrep2016: publications/techrep2016.bib
     articles2015: publications/articles2015.bib
     proceedings2015: publications/proceedings2015.bib
-    techrep2015: publications/techrep2015.bib
     unpublished2015: publications/unpublished2015.bib
     articles2014: publications/articles2014.bib
     techrep2014: publications/techrep2014.bib
