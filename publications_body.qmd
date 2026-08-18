@@ -1,4 +1,28 @@
 
+## 2026
+
+### Journal Articles
+
+::: {#refs-articles2026}
+:::
+
+### Technical Reports
+
+::: {#refs-techrep2026}
+:::
+
+## 2025
+
+### Journal Articles
+
+::: {#refs-articles2025}
+:::
+
+### Technical Reports
+
+::: {#refs-techrep2025}
+:::
+
 ## 2024
 
 ### Journal Articles
