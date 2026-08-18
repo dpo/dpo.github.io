@@ -143,6 +143,11 @@
 
 ## 2015
 
+### Books
+
+::: {#refs-books2015}
+:::
+
 ### Journal Articles
 
 ::: {#refs-articles2015}
@@ -151,6 +156,11 @@
 ### Proceedings
 
 ::: {#refs-proceedings2015}
+:::
+
+### Technical Reports
+
+::: {#refs-techrep2015}
 :::
 
 ### Unpublished
